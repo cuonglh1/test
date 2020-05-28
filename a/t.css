@@ -1,0 +1,47 @@
+.main_container ul {
+  background-color: green;
+}
+
+.main_container li {
+  color: red;
+}
+
+h1 {
+  background-color: blue;
+  border: 5px solid #ddd;
+}
+
+h1:hover {
+  border-color: #999;
+  background: #130080;
+  color: #3cff00;
+}
+
+div {
+  font-size: 30px;
+}
+
+ul {
+  margin: 0;
+}
+
+ul li {
+  color: 0;
+}
+
+ul a {
+  color: #999;
+}
+
+ul a:hover {
+  color: #229ed3;
+}
+
+.block, p {
+  font-size: 24px;
+}
+
+p {
+  border: 1px solid #eee;
+}
+/*# sourceMappingURL=t.css.map */
